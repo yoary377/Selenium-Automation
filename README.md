@@ -1,4 +1,4 @@
-# Project Name: XM Automation Testing
+# Project Name: UI Automation Testing
 
 ## Overview
 
